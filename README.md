@@ -1,6 +1,4 @@
 ## Data Science Specialization - [Johns Hopkins Univeristy via Coursera](https://www.coursera.org/specializations/jhu-data-science)
-### Data Science Specialization
-Launch Your Career in Data Science. A ten-course introduction to data science, developed and taught by leading professors.
 
 ### About this Specialization
 
