@@ -1,6 +1,6 @@
 ## Data Science Specialization - [Johns Hopkins Univeristy via Coursera](https://www.coursera.org/specializations/jhu-data-science)
 
-https://github.com/barteec/JHU-Data.Science.Specialization.via.Coursera/issues/1#issue-795617840
+![JHUDataScience](https://user-images.githubusercontent.com/75227847/106082610-a27d6600-60e0-11eb-9d73-37e7e6e31754.JPG)
 
 ### About this Specialization
 
